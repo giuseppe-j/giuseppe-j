@@ -9,6 +9,16 @@ I am passionate about my job and I love to learn and experience new things.
 <li><a href="https://github.com/giuseppe-j/gestione-presenze">giuseppe-j/gestione-presenze</a> - Time tracker</li>
 <li><a href="https://github.com/giuseppe-j/budgeting">giuseppe-j/budgeting</a> - Budget manager</li>
 <br>
+
+🤝 <b>Special contributors</b>
+<li>
+  <a href="https://github.com/gioboa" class="Link--primary no-underline flex-self-center">
+    gioboa
+  </a>
+  <span class="color-fg-muted">- Giorgio Boa</span>
+</li>
+<br>
+
 💬 <b>Ask me about any curiosity</b><br> 
 If you are going to start a career as developer, I'm gonna be happy to help you.
 <br><br>
