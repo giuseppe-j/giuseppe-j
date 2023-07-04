@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! Nice to see you. 
 
-<!--
-**giuseppe-j/giuseppe-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page. <br>
+I'm Giuseppe, a Frontend developer from Milan, 🇮🇹 . <br>
+I am passionate about my job and I love to learn and experience new things.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 <b>My latest projects</b>
+<li><a href="https://github.com/giuseppe-j/shop">giuseppe-j/shop</a> - E-commerce</li>
+<li><a href="https://github.com/giuseppe-j/gestione-presenze">giuseppe-j/gestione-presenze</a> - Time tracker</li>
+<li><a href="https://github.com/giuseppe-j/budgeting">giuseppe-j/budgeting</a> - Budget manager</li>
+<br>
+💬 <b>Ask me about any curiosity</b><br> 
+If you are going to start a career as developer, I'm gonna be happy to help you.
+<br><br>
+📫 <b>How to reach me: </b>
+<li><a href="https://www.linkedin.com/in/giuseppe-coluzzi/">Linkedin</a></li>
+<li><a href="mailto:giuseppecoluzzi.dev@gmail.com">Email</a></li>
