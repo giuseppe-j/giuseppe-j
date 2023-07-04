@@ -1,4 +1,4 @@
-### Hi! Nice to see you. 
+### Hey there! Nice to see you. 
 
 Welcome to my page. <br>
 I'm Giuseppe, a Frontend developer from Milan, 🇮🇹 . <br>
@@ -12,6 +12,6 @@ I am passionate about my job and I love to learn and experience new things.
 💬 <b>Ask me about any curiosity</b><br> 
 If you are going to start a career as developer, I'm gonna be happy to help you.
 <br><br>
-📫 <b>How to reach me: </b>
+📫 <b>Get in touch</b>
 <li><a href="https://www.linkedin.com/in/giuseppe-coluzzi/">Linkedin</a></li>
 <li><a href="mailto:giuseppecoluzzi.dev@gmail.com">Email</a></li>
